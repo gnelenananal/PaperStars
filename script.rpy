@@ -32,7 +32,7 @@ label start:
     
     e "hi mr ryan are you reading this?"
 
-    e "what are you doing??"
+    e "do 67 67"
     # This ends the game.
 
     return
